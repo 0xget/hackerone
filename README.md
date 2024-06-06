@@ -1,6 +1,6 @@
 # All tools for pentest
 
-## Acunnextix 24.4 for Linux
+## Acunetix 24.4 for Linux
 
 ### About
 
