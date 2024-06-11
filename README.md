@@ -8,7 +8,7 @@ Cracked.
 
 ### Download
 
-[Ping Castle 3.2.0.1 Pro, Windows[(https://github.com/0xget/hackerone/releases/tag/ping_castle_3.2.0.1_pro_linux)
+[Ping Castle 3.2.0.1 Pro, Windows](https://github.com/0xget/hackerone/releases/tag/ping_castle_3.2.0.1_pro_linux)
 
 ## Acunetix 24.4 for Linux
 
